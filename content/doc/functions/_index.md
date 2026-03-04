@@ -109,7 +109,7 @@ To check if you have access to Clever Functions for your organisation, run the f
 
 ```bash
 clever features enable functions
-clever kms --org <your_org_id>
+clever functions --org <your_org_id>
 ```
 
 ## Create a Function
